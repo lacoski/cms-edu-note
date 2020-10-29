@@ -1,6 +1,6 @@
 # Ghi chép về công cụ CMS EDU
 
-## Hướng dẫn cài đặt CMS EDU trên Ubuntu 18.04
+## [Hướng dẫn cài đặt CMS EDU trên Ubuntu 18.04](/docs/1-install-cms.md)
 
 ## Nguồn
 
