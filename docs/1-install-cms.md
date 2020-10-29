@@ -394,3 +394,4 @@ Trở lại giao diện
 
 ![](/images/1-install-cms/pic6.png)
 
+Tới đây ta đã cấu hình CMS Server thành công.!
